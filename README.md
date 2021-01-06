@@ -10,12 +10,14 @@ Hi, I'm Muhammed Hashim, a passionate self-taught Full Stack Web Developer 🚀 
 - 📫 How to reach me: [@hashimea](https://www.linkedin.com/in/hashim-ea-07812b16b/);
 - 📝[Resume]
 
-### Connect with me:
+**Connect with me:** 
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+<br />
 <br />
 
 **Languages and Tools:**  
