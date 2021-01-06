@@ -1,7 +1,7 @@
-### Hi there, I'm [Hashim !] 👋
+### Hi there, I'm Hashim👋
 
 
-Hi, I'm Muhammed Hashim, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Muhammed Hashim, a passionate self-taught software engineer from India.
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Typescript
