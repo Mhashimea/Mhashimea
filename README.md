@@ -6,7 +6,7 @@ Hi, I'm Muhammed Hashim, a passionate self-taught Full Stack Web Developer 🚀 
 
 <br />
 
-- 👨🏽‍💻 I’m currently working on Reactjs & Vuejs;
+- 👨🏽‍💻 I’m currently working on Reactjs,Vuejs & Nodejs;
 - 📫 How to reach me: [@hashimea](https://www.linkedin.com/in/hashim-ea-07812b16b/);
 - 📝[Resume]
 
