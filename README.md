@@ -1,14 +1,12 @@
-### Hi there, I'm Hashim 👋
+<!-- ## 👋 &nbsp;Hey there! I'm Hashim Ea -->
 
-Hi, I'm Muhammed Hashim, a passionate self-taught Full Stack Web Developer 🚀 from India.
+### 👨🏻‍💻 &nbsp;About Me
 
-![](https://visitor-badge.glitch.me/badge?page_id=Mhashimea/Mhashimea)
-
-<br />
-
-- 👨🏽‍💻 I’m currently working on Reactjs,Vuejs & Nodejs;
-- 📫 How to reach me: [@hashimea](https://www.linkedin.com/in/hashim-ea-07812b16b/);
-- 📝[Resume]
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+👨🏽‍💻 Currently am focusing on javascript ecosystem;
+📫 How to reach me: [@hashimea](https://www.linkedin.com/in/hashim-ea-07812b16b/);
+✉️ &nbsp;You can shoot me an email at hashimea@outlook.com
+📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1-pKJgF44juHi3L0zS5v3kF1Vx4q24OHoo2_wqBk-OxQ/edit) for more details about me.
 
 **Connect with me:** 
 
