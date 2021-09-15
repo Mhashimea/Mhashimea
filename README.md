@@ -6,7 +6,7 @@
 👨🏽‍💻 Currently am focusing on javascript ecosystem.\
 📫 How to reach me: [@hashimea](https://www.linkedin.com/in/hashim-ea-07812b16b/).\
 ✉️ &nbsp;You can shoot me an email at hashimea@outlook.com.\
-📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1-pKJgF44juHi3L0zS5v3kF1Vx4q24OHoo2_wqBk-OxQ/edit) for more details about me.\
+📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1-pKJgF44juHi3L0zS5v3kF1Vx4q24OHoo2_wqBk-OxQ/edit) for more details about me
 
 **Connect with me:** 
 
