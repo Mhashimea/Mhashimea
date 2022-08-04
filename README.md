@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 👨🏽‍💻 Currently am focusing on javascript ecosystem.\
 📫 How to reach me: [@hashimea](https://www.linkedin.com/in/hashim-ea-07812b16b/).\
-✉️ &nbsp;You can shoot me an email at hashimea@outlook.com.\
+✉️ &nbsp;You can shoot me an email at hashimea@outlook.com.
 
 **Connect with me:** 
 
