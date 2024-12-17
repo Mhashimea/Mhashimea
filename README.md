@@ -9,8 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - **Tools:** Git, Docker, Kubernetes, VSCode, Jenkins
 
 ## 🔭 Current Projects
-- **[Project Name](link-to-repo):** Brief description of your project.
-- **[Project Name](link-to-repo):** Brief description of your project.
+- **[Flowtrail AI](link-to-repo):** Conversational AI Assistant.
 
 ## 🌱 Learning & Interests
 - Currently learning TypeScript and exploring cloud technologies.
@@ -23,7 +22,5 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 💬 Let's Connect!
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mhashimea&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhashimea&layout=compact&hide_border=true)
